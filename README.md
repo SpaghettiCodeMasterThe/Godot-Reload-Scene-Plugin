@@ -1,5 +1,5 @@
 # Godot-Reload-Scene-Plugin
-Quick save and reload the current scene
+Quick save and reload the current scene, click the button or use CTRL + ENTER
 
 Folder structure:
 
