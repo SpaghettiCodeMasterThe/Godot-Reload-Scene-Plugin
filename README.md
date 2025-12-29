@@ -7,7 +7,7 @@ Folder structure:
 
 Click the button or press CTRL + ENTER
 
-![quick_reload](quick_reload.jpg)
+![quick_reload](https://github.com/user-attachments/assets/482da856-1a4f-4ae4-8f21-7d239ed3e756)
 
 Add, remove, change shortcut key
 
