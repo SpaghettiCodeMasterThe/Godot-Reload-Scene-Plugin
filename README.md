@@ -10,4 +10,5 @@ Click the button or press CTRL + ENTER
 ![quick_reload](quick_reload.jpg)
 
 Add, remove, change shortcut key
+
 ![shortcut](https://github.com/user-attachments/assets/cbd76b52-09aa-418c-bdbe-34a8e0c1b681)
